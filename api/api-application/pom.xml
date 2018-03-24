@@ -3,18 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>ssm</artifactId>
+        <artifactId>ssm.api</artifactId>
         <groupId>com.helfmxie</groupId>
         <version>0.0.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ssm.admin</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>admin-application</module>
-        <module>admin-rest</module>
-    </modules>
+    <artifactId>ssm.api.api-application</artifactId>
 
 
 </project>

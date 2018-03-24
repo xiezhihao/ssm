@@ -9,7 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>api</artifactId>
+    <artifactId>ssm.api</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>api-application</module>
+        <module>api-rest</module>
+    </modules>
 
 
 </project>

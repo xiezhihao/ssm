@@ -9,10 +9,10 @@
     <packaging>pom</packaging>
     <version>0.0.1</version>
     <modules>
-        <module>module</module>
-        <module>common</module>
         <module>admin</module>
         <module>api</module>
+        <module>common</module>
+        <module>module</module>
     </modules>
 
 
