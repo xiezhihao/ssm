@@ -1,4 +1,4 @@
-package com.helfmxie.ssm.admin.controller;
+package main.java.com.helfmxie.ssm.admin.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
